@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "vuejs-rails/version"
 
 Gem::Specification.new do |s|
-  s.name        = "vuejs-rails-2.0"
+  s.name        = "vuejs-2.0"
   s.version     = Vue::Rails::VERSION
   s.authors     = ["Yudi Purwanto"]
   s.email       = ["zhiephie@timexstudio.id"]
