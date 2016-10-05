@@ -8,13 +8,13 @@ Rails 3.2+ asset-pipeline gem to provide vue.js 2.0
 
 Have in your Gemfile:
 
-	gem 'vuejs-rails-2.0'
+	gem 'vuejs2-rails'
 
 And in your application.js manifest:
 
-	//= require vue
-	//= require vue-router (optional)
-	//= require vue-resource (optional)
+	//= require vue2
+	//= require vue2-router (optional)
+	//= require vue2-resource (optional)
 
 If your application.js requires TurboLinks (a default setting for new Rails apps), you should strongly consider disabling it, as it will cause pages to load without reloading the Javascript.
 

@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Yudi Purwanto"]
   s.email       = ["zhiephie@timexstudio.id"]
   s.homepage    = "https://github.com/zhiephie/vuejs-rails-2.0"
-  s.summary     = %q{vue.js 2.0 asset pipeline provider/wrapper}
+  s.summary     = %q{vue.js 2.0 asset pipeline}
   s.description = "A simple asset-pipeline wrapper for vue.js 2.0 by Evan You"
   s.license     = "MIT"
 
