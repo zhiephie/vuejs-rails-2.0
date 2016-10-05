@@ -1,5 +1,5 @@
 require "vuejs2/version"
-require "vuejs-rails/engine"
+require "vuejs2/engine"
 
 module Vuejs2
   # Your code goes here...
