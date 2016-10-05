@@ -12,7 +12,9 @@ Gem::Specification.new do |s|
   s.description = "A simple asset-pipeline wrapper for vue.js 2.0 by Evan You"
   s.license     = "MIT"
 
-  s.rubyforge_project = "vuejs-rails"
+  # development dependencies
+  s.add_development_dependency "bundler", "~> 1.7"
+  s.add_development_dependency "rake", "~> 10.0"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
