@@ -4,7 +4,7 @@ require "vuejs-rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "vuejs-2.0"
-  s.version     = Vue::Rails::VERSION
+  s.version     = Vuejs::VERSION
   s.authors     = ["Yudi Purwanto"]
   s.email       = ["zhiephie@timexstudio.id"]
   s.homepage    = "https://github.com/zhiephie/vuejs-rails-2.0"
