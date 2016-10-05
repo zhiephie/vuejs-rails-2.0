@@ -8,7 +8,7 @@ Rails 3.2+ asset-pipeline gem to provide vue.js 2.0
 
 Have in your Gemfile:
 
-	gem 'vuejs2-rails'
+	gem 'vuejs-2.0'
 
 And in your application.js manifest:
 
