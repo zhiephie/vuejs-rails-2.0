@@ -27,3 +27,7 @@ You may write your Vue.js 2.0 code directly in your views using ```<script>``` t
 ## Contributing
 
 Contributions are welcome, please follow [GitHub Flow](https://guides.github.com/introduction/flow/index.html)
+
+## Credit 
+
+Thanks to [Adambutler](https://github.com/adambutler/vuejs-rails)
